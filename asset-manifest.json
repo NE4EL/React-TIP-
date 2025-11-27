@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NE4EL/React-TIP-/static/css/main.67aec53b.css",
+    "main.js": "/NE4EL/React-TIP-/static/js/main.9febc081.js",
+    "index.html": "/NE4EL/React-TIP-/index.html",
+    "main.67aec53b.css.map": "/NE4EL/React-TIP-/static/css/main.67aec53b.css.map",
+    "main.9febc081.js.map": "/NE4EL/React-TIP-/static/js/main.9febc081.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67aec53b.css",
+    "static/js/main.9febc081.js"
+  ]
+}
